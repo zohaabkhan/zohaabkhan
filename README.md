@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zohaabkhan
 - 👀 I’m interested in programming and languages. 
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently completing the last leg of my Bachelors in Comp Sci.
 - 💞️ I’m looking to collaborate on web developement projects
 - 📫 How to reach me zohaab.khan@gmail.com
 
